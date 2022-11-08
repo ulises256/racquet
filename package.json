@@ -33,7 +33,7 @@
     "passport-local": "^1.0.0",
     "sequelize": "^4.0.0",
     "serve-favicon": "^2.4.3",
-    "webpack": "^2.2.1"
+    "webpack": "^5.74.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
